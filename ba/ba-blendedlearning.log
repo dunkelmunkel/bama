@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.28)  20 JAN 2025 21:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.28)  16 FEB 2025 22:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -7,9 +7,9 @@ entering extended mode
 (./ba-blendedlearning.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
-(../cssheet.cls
+(../../cssheet.cls
 
-LaTeX Warning: You have requested document class `../cssheet',
+LaTeX Warning: You have requested document class `../../cssheet',
                but the document class provides `cssheet'.
 
 Document Class: cssheet 
@@ -2273,26 +2273,39 @@ LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/n' will be
 (Font)              scaled to size 17.28pt on input line 28.
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/b/n' will be
 (Font)              scaled to size 17.28pt on input line 28.
-LaTeX Font Info:    Trying to load font information for TS1+Raleway-TLF on inpu
-t line 38.
+LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/it' will be
+(Font)              scaled to size 10.0pt on input line 31.
 
+Overfull \hbox (13.3953pt too wide) in paragraph at lines 31--32
+[]\T1/Raleway-TLF/m/n/10 In Lehr-ver-an-stal-tun-gen an der Hoch-schu-le wer-de
+n mitt-ler-wei-le oft-mals Präsenz- und Onine-Lernräume
+ []
+
+LaTeX Font Info:    Trying to load font information for TS1+Raleway-TLF on inpu
+t line 35.
 (/usr/local/texlive/2024/texmf-dist/tex/latex/raleway/TS1Raleway-TLF.fd
 File: TS1Raleway-TLF.fd 2014/07/28 (autoinst) Font definitions for TS1/Raleway-
 TLF.
 )
 LaTeX Font Info:    Font shape `TS1/Raleway-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 38.
+(Font)              scaled to size 10.0pt on input line 35.
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/b/n' will be
-(Font)              scaled to size 10.0pt on input line 38.
+(Font)              scaled to size 10.0pt on input line 35.
+
+Overfull \hbox (40.1953pt too wide) in paragraph at lines 37--38
+[]\T1/Raleway-TLF/b/n/10 Empfehlungen: \T1/Raleway-TLF/m/n/10 Ab-lei-tung von E
+mp-feh-lun-gen für die Ge-stal-tung ei-ner Blended-Learning-Veranstaltung
+ []
+
 <../../logos/cc-zero.png, id=4, 66.30275pt x 23.42697pt>
 File: ../../logos/cc-zero.png Graphic file (type png)
 <use ../../logos/cc-zero.png>
-Package pdftex.def Info: ../../logos/cc-zero.png  used on input line 45.
+Package pdftex.def Info: ../../logos/cc-zero.png  used on input line 42.
 (pdftex.def)             Requested size: 80.53004pt x 28.45274pt.
 LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/n' will be
-(Font)              scaled to size 5.0pt on input line 45.
+(Font)              scaled to size 5.0pt on input line 42.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 45.
+(Font)              <5> on input line 42.
 Package epstopdf Info: Source file: <../../logos/phhd.eps>
 (epstopdf)                    date: 2024-12-29 23:40:30
 (epstopdf)                    size: 454411 bytes
@@ -2301,15 +2314,14 @@ Package epstopdf Info: Source file: <../../logos/phhd.eps>
 (epstopdf)                    size: 27289 bytes
 (epstopdf)             Command: <repstopdf --outfile=../../logos/phhd-eps-conve
 rted-to.pdf ../../logos/phhd.eps>
-(epstopdf)             \includegraphics on input line 51.
+(epstopdf)             \includegraphics on input line 48.
 Package epstopdf Info: Output file is already uptodate.
 <../../logos/phhd-eps-converted-to.pdf, id=22, 243.91125pt x 103.38625pt>
 File: ../../logos/phhd-eps-converted-to.pdf Graphic file (type pdf)
 <use ../../logos/phhd-eps-converted-to.pdf>
 Package pdftex.def Info: ../../logos/phhd-eps-converted-to.pdf  used on input l
-ine 51.
+ine 48.
 (pdftex.def)             Requested size: 100.68906pt x 42.67912pt.
-
 [1{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/l
 ocal/texlive/2024/texmf-dist/fonts/enc/dvips/raleway/a_bzmckq.enc}
 
@@ -2336,20 +2348,21 @@ Package logreq Info: Writing requests to 'ba-blendedlearning.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 26542 strings out of 474116
- 520756 string characters out of 5743682
+ 26545 strings out of 474116
+ 520844 string characters out of 5743682
  1945187 words of memory out of 5000000
- 48662 multiletter control sequences out of 15000+600000
- 640803 words of font info for 50 fonts, out of 8000000 for 9000
+ 48663 multiletter control sequences out of 15000+600000
+ 655308 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  81i,15n,101p,1241b,5182s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/impallari/raleway/Raleway-Bol
 d.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/impallari/raleway/Raleway
--Regular.pfb>
-Output written on ba-blendedlearning.pdf (1 page, 79956 bytes).
+-Italic.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/impallari/raleway/R
+aleway-Regular.pfb>
+Output written on ba-blendedlearning.pdf (1 page, 95432 bytes).
 PDF statistics:
- 51 PDF objects out of 1000 (max. 8388607)
- 38 compressed objects within 1 object stream
+ 56 PDF objects out of 1000 (max. 8388607)
+ 41 compressed objects within 1 object stream
  2 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
