@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.26)  21 JUN 2025 22:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.26)  21 JUN 2025 22:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1461,7 +1461,7 @@ Package logreq Info: Writing requests to 'ba-stack.run.xml'.
 Here is how much of TeX's memory you used:
  35221 strings out of 473190
  712106 string characters out of 5715800
- 1610248 words of memory out of 5000000
+ 1610321 words of memory out of 5000000
  57968 multiletter control sequences out of 15000+600000
  653893 words of font info for 55 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
@@ -1469,7 +1469,7 @@ Here is how much of TeX's memory you used:
 </usr/local/texlive/2025/texmf-dist/fonts/type1/impallari/raleway/Raleway-Bol
 d.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/impallari/raleway/Raleway
 -Regular.pfb>
-Output written on ba-stack.pdf (1 page, 81019 bytes).
+Output written on ba-stack.pdf (1 page, 81311 bytes).
 PDF statistics:
  58 PDF objects out of 1000 (max. 8388607)
  44 compressed objects within 1 object stream
