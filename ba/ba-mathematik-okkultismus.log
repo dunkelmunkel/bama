@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.3.27)  20 JUL 2026 18:05
+This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.3.27)  22 SEP 2026 15:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1850,24 +1850,24 @@ LaTeX Font Info:    Font shape `TU/Raleway(0)/m/n' will be
 (Font)              scaled to size 17.28pt on input line 28.
 LaTeX Font Info:    Font shape `TU/Raleway(0)/b/n' will be
 (Font)              scaled to size 17.28pt on input line 28.
-LaTeX Font Info:    Font shape `TU/Raleway(0)/b/n' will be
-(Font)              scaled to size 10.0pt on input line 54.
+LaTeX Font Info:    Font shape `TU/Raleway(0)/m/it' will be
+(Font)              scaled to size 10.0pt on input line 33.
 
-Overfull \hbox (1.60855pt too wide) in paragraph at lines 54--55
-[]\TU/Raleway(0)/b/n/10 Literaturrecherche: \TU/Raleway(0)/m/n/10 Untersuchung 
-der kulturhistorischen Bedeutung und der mathematischen
+Overfull \hbox (5.55276pt too wide) in paragraph at lines 33--34
+\TU/Raleway(0)/m/n/10 Themen. Es sollen die mathematischen Bezüge, historischen
+ Entstehungsbedingungen, gesellschaft-
  []
 
 File: cc-zero.png Graphic file (type bmp)
 <cc-zero.png>
 LaTeX Font Info:    Font shape `TU/Raleway(0)/m/n' will be
-(Font)              scaled to size 5.0pt on input line 61.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 61.
+(Font)              scaled to size 5.0pt on input line 56.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 56.
 
 (/usr/local/texlive/2026/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 61.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 56.
 
 
 (/usr/local/texlive/2026/texmf-dist/tex/latex/amsfonts/umsb.fd
@@ -1901,11 +1901,11 @@ Package logreq Info: Writing requests to 'ba-mathematik-okkultismus.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
  39047 strings out of 468168
- 825600 string characters out of 5432815
- 1800862 words of memory out of 5000000
+ 825610 string characters out of 5432815
+ 1802867 words of memory out of 5000000
  67187 multiletter control sequences out of 15000+600000
  632044 words of font info for 86 fonts, out of 8000000 for 9000
  1350 hyphenation exceptions out of 8191
- 103i,12n,131p,714b,7349s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 103i,12n,131p,850b,7349s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on ba-mathematik-okkultismus.pdf (1 page).
